@@ -1,0 +1,170 @@
+{
+ "n": 20,
+ "hit_at_k": 1.0,
+ "mrr": 1.0,
+ "answer_accuracy": 0.8333333333333334,
+ "citation_accuracy": 0.9444444444444444,
+ "refusal_accuracy": 1.0,
+ "rows": [
+  {
+   "question": "What are the standard payment terms for suppliers?",
+   "answerable": true,
+   "rank": 1,
+   "correct": true,
+   "citation_ok": true,
+   "answer": "Standard payment terms are 45 days from the invoice date."
+  },
+  {
+   "question": "How much notice must suppliers give before a price increase?",
+   "answerable": true,
+   "rank": 1,
+   "correct": true,
+   "citation_ok": true,
+   "answer": "Suppliers must give 14 days' written notice of any price increase."
+  },
+  {
+   "question": "What is needed before placing the first order with a new paper supplier?",
+   "answerable": true,
+   "rank": 1,
+   "correct": true,
+   "citation_ok": true,
+   "answer": "A new supplier needs two quotes compared and sign-off from the procurement manager before the first order."
+  },
+  {
+   "question": "Above what amount does a purchase need a purchase order?",
+   "answerable": true,
+   "rank": 1,
+   "correct": true,
+   "citation_ok": true,
+   "answer": "Every purchase above PKR 50,000 needs a purchase order approved by the procurement manager."
+  },
+  {
+   "question": "When does the managing director have to approve an order?",
+   "answerable": true,
+   "rank": 1,
+   "correct": true,
+   "citation_ok": true,
+   "answer": "Orders above PKR 500,000 also need the managing director's approval."
+  },
+  {
+   "question": "When is an invoice paid under the three-way match?",
+   "answerable": true,
+   "rank": 1,
+   "correct": true,
+   "citation_ok": true,
+   "answer": "An invoice is paid only after it matches the purchase order and the goods received note."
+  },
+  {
+   "question": "How quickly must a purchase order be raised for an urgent phone order?",
+   "answerable": true,
+   "rank": 1,
+   "correct": true,
+   "citation_ok": true,
+   "answer": "Urgent orders may be placed by phone, but the purchase order must be raised within one working day."
+  },
+  {
+   "question": "How often are CTP plates and ink cycle-counted?",
+   "answerable": true,
+   "rank": 1,
+   "correct": true,
+   "citation_ok": true,
+   "answer": "High-value items such as CTP plates and ink are cycle-counted every week."
+  },
+  {
+   "question": "How much safety stock is kept for paper?",
+   "answerable": true,
+   "rank": 1,
+   "correct": true,
+   "citation_ok": true,
+   "answer": "Safety stock for paper is set to cover two weeks of production."
+  },
+  {
+   "question": "What must happen when paper is damaged?",
+   "answerable": true,
+   "rank": 1,
+   "correct": true,
+   "citation_ok": true,
+   "answer": "Damaged paper must be recorded on the same day in the damage register and photographed before it is moved."
+  },
+  {
+   "question": "How many reams are sampled from each paper lot on delivery?",
+   "answerable": true,
+   "rank": 1,
+   "correct": true,
+   "citation_ok": true,
+   "answer": "Ten reams are sampled from each lot."
+  },
+  {
+   "question": "Within how many days must defective material be reported to the supplier?",
+   "answerable": true,
+   "rank": 1,
+   "correct": true,
+   "citation_ok": true,
+   "answer": "Defective material must be reported to the supplier within 7 days of delivery."
+  },
+  {
+   "question": "How fast are customer complaints about print quality answered?",
+   "answerable": true,
+   "rank": 1,
+   "correct": true,
+   "citation_ok": true,
+   "answer": "Customer complaints about print quality are answered within 48 hours, and a root-cause note is filed within 5 working days."
+  },
+  {
+   "question": "How long do we have to settle a vendor's bill?",
+   "answerable": true,
+   "rank": 1,
+   "correct": true,
+   "citation_ok": true,
+   "answer": "Standard payment terms are 45 days from the invoice date."
+  },
+  {
+   "question": "Who signs off big orders worth more than half a million rupees?",
+   "answerable": true,
+   "rank": 1,
+   "correct": false,
+   "citation_ok": true,
+   "answer": "Every purchase above PKR 50,000 needs a purchase order approved by the procurement manager."
+  },
+  {
+   "question": "What do we do with a ream that arrives wet or torn?",
+   "answerable": true,
+   "rank": 1,
+   "correct": false,
+   "citation_ok": false,
+   "answer": "The documents don't cover this."
+  },
+  {
+   "question": "How often do we recalculate the point at which to reorder?",
+   "answerable": true,
+   "rank": 1,
+   "correct": true,
+   "citation_ok": true,
+   "answer": "Reorder points are reviewed every month using the last 90 days of usage."
+  },
+  {
+   "question": "If a vendor raises prices by 8%, what happens?",
+   "answerable": true,
+   "rank": 1,
+   "correct": false,
+   "citation_ok": true,
+   "answer": "Suppliers must give 14 days' written notice of any price increase."
+  },
+  {
+   "question": "What is the company's annual marketing budget?",
+   "answerable": false,
+   "rank": null,
+   "correct": true,
+   "citation_ok": null,
+   "answer": "The documents don't cover this."
+  },
+  {
+   "question": "Which courier does the company use for international shipping?",
+   "answerable": false,
+   "rank": null,
+   "correct": true,
+   "citation_ok": null,
+   "answer": "The documents don't cover this."
+  }
+ ]
+}
