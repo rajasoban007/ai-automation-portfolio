@@ -1,0 +1,13 @@
+sku,name,supplier,unit_cost,on_hand,on_order,lead_time_days,moq
+PAP-80G-A4,Offset paper 80gsm A4 (ream),Lahore Paper House,6.1,151,0,14,10
+PAP-70G-23x36,Newsprint 70gsm 23x36 (ream),Lahore Paper House,9.4,157,0,14,25
+BRD-300G,Art card 300gsm (sheet pack),Lahore Paper House,18.0,358,0,21,25
+INK-CYAN-1KG,Offset ink cyan 1kg,ColorTech Supplies,11.5,505,226,10,25
+INK-MAG-1KG,Offset ink magenta 1kg,ColorTech Supplies,11.5,211,0,10,10
+INK-YEL-1KG,Offset ink yellow 1kg,ColorTech Supplies,11.0,405,173,10,25
+INK-BLK-1KG,Offset ink black 1kg,ColorTech Supplies,9.8,540,0,10,10
+PLT-CTP-A1,CTP plate A1,PlateMakers Co.,7.2,76,32,7,50
+GLU-PUR-5KG,PUR binding glue 5kg,BindRight Traders,32.0,19,0,12,50
+WRP-SHRINK,Shrink wrap roll,BindRight Traders,14.5,39,0,5,10
+CTN-BOX-L,Carton box large (25 pcs),PackLine,8.0,233,138,4,10
+BLD-WIRE,Wire-O binding spools,BindRight Traders,21.0,161,114,12,25
