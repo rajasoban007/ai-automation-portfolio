@@ -1,0 +1,7 @@
+file,status,issues,supplier,invoice_number,invoice_date,po_number,currency,subtotal,tax,total,extracted_by
+inv_bindright_517.pdf,NEEDS REVIEW,no PO number - cannot 3-way match,BindRight Traders (Sample),BR-517,2026-11-06,,USD,488.0,24.4,512.4,rules
+inv_colortech_88.pdf,AUTO-APPROVED,,ColorTech Supplies (Sample),CT-0088,2026-11-15,PO-2211,USD,754.0,0.0,754.0,rules
+inv_colortech_88_resent.pdf,NEEDS REVIEW,DUPLICATE: same supplier + invoice number already processed,ColorTech Supplies (Sample),CT-0088,2026-11-15,PO-2211,USD,754.0,0.0,754.0,rules
+inv_lahore_paper_1041.pdf,AUTO-APPROVED,,Lahore Paper House (Sample),LPH-1041,2026-11-12,PO-2207,USD,1296.0,220.32,1516.32,rules
+inv_packline_77.pdf,AUTO-APPROVED,,PackLine Cartons (Sample),PL-77,2026-11-09,PO-2209,USD,494.0,24.7,518.7,rules
+inv_platemakers_2290.pdf,NEEDS REVIEW,"total 1,702.40 != subtotal + tax 1,684.80",PlateMakers Co. (Sample),PM-2290,2026-11-17,PO-2215,USD,1440.0,244.8,1702.4,rules

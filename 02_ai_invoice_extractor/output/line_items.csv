@@ -1,0 +1,14 @@
+file,invoice_number,description,quantity,unit_price,amount
+inv_bindright_517.pdf,BR-517,PUR binding glue 5kg,10.0,32.0,320.0
+inv_bindright_517.pdf,BR-517,Wire-O binding spools,8.0,21.0,168.0
+inv_colortech_88.pdf,CT-0088,Offset ink cyan 1kg,20.0,11.5,230.0
+inv_colortech_88.pdf,CT-0088,Offset ink magenta 1kg,20.0,11.5,230.0
+inv_colortech_88.pdf,CT-0088,Offset ink black 1kg,30.0,9.8,294.0
+inv_colortech_88_resent.pdf,CT-0088,Offset ink cyan 1kg,20.0,11.5,230.0
+inv_colortech_88_resent.pdf,CT-0088,Offset ink magenta 1kg,20.0,11.5,230.0
+inv_colortech_88_resent.pdf,CT-0088,Offset ink black 1kg,30.0,9.8,294.0
+inv_lahore_paper_1041.pdf,LPH-1041,Offset paper 80gsm A4 (ream),120.0,6.1,732.0
+inv_lahore_paper_1041.pdf,LPH-1041,Newsprint 70gsm 23x36 (ream),60.0,9.4,564.0
+inv_packline_77.pdf,PL-77,Carton box large (25 pcs),40.0,8.0,320.0
+inv_packline_77.pdf,PL-77,Shrink wrap roll,12.0,14.5,174.0
+inv_platemakers_2290.pdf,PM-2290,CTP plate A1,200.0,7.2,1440.0
