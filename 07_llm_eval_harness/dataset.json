@@ -1,0 +1,152 @@
+[
+ {
+  "id": 0,
+  "text": "Dear buyer, we have received PO PO-2300. Quantity: 1000. We will dispatch so it reaches you by January 04, 2027. - ColorTech Supplies accounts",
+  "gold": {
+   "supplier": "ColorTech Supplies",
+   "po_number": "PO-2300",
+   "quantity": 1000,
+   "delivery_date": "2027-01-04"
+  }
+ },
+ {
+  "id": 1,
+  "text": "Hello! Quick update on PO#PO-2301: we can supply 1000 units, delivery December 31, 2026. Kind regards from the BindRight Traders sales desk.",
+  "gold": {
+   "supplier": "BindRight Traders",
+   "po_number": "PO-2301",
+   "quantity": 1000,
+   "delivery_date": "2026-12-31"
+  }
+ },
+ {
+  "id": 2,
+  "text": "Lahore Paper House here. Your purchase order no. PO-2302 (1000 items) is confirmed; delivery date 01/12/2026.",
+  "gold": {
+   "supplier": "Lahore Paper House",
+   "po_number": "PO-2302",
+   "quantity": 1000,
+   "delivery_date": "2026-12-01"
+  }
+ },
+ {
+  "id": 3,
+  "text": "Dear buyer, we have received PO PO-2303. Quantity: 1000. We will dispatch so it reaches you by December 15, 2026. - BindRight Traders accounts",
+  "gold": {
+   "supplier": "BindRight Traders",
+   "po_number": "PO-2303",
+   "quantity": 1000,
+   "delivery_date": "2026-12-15"
+  }
+ },
+ {
+  "id": 4,
+  "text": "PlateMakers Co. here. Your purchase order no. PO-2304 (1000 items) is confirmed; delivery date 05/01/2027.",
+  "gold": {
+   "supplier": "PlateMakers Co.",
+   "po_number": "PO-2304",
+   "quantity": 1000,
+   "delivery_date": "2027-01-05"
+  }
+ },
+ {
+  "id": 5,
+  "text": "Dear buyer, we have received PO PO-2305. Quantity: 120. We will dispatch so it reaches you by December 15, 2026. - PlateMakers Co. accounts",
+  "gold": {
+   "supplier": "PlateMakers Co.",
+   "po_number": "PO-2305",
+   "quantity": 120,
+   "delivery_date": "2026-12-15"
+  }
+ },
+ {
+  "id": 6,
+  "text": "Hi team,\nConfirming your order PO-2306 for 500 units. Expected delivery on 01/12/2026.\nRegards,\nPackLine Cartons",
+  "gold": {
+   "supplier": "PackLine Cartons",
+   "po_number": "PO-2306",
+   "quantity": 500,
+   "delivery_date": "2026-12-01"
+  }
+ },
+ {
+  "id": 7,
+  "text": "Re: order PO-2307\nThanks for the order. 1000 pcs are being packed and should arrive 03 Dec 2026.\nBest, ColorTech Supplies",
+  "gold": {
+   "supplier": "ColorTech Supplies",
+   "po_number": "PO-2307",
+   "quantity": 1000,
+   "delivery_date": "2026-12-03"
+  }
+ },
+ {
+  "id": 8,
+  "text": "Hello! Quick update on PO#PO-2308: we can supply 200 units, delivery December 31, 2026. Kind regards from the Lahore Paper House sales desk.",
+  "gold": {
+   "supplier": "Lahore Paper House",
+   "po_number": "PO-2308",
+   "quantity": 200,
+   "delivery_date": "2026-12-31"
+  }
+ },
+ {
+  "id": 9,
+  "text": "Hello! Quick update on PO#PO-2309: we can supply 500 units, delivery December 26, 2026. Kind regards from the PlateMakers Co. sales desk.",
+  "gold": {
+   "supplier": "PlateMakers Co.",
+   "po_number": "PO-2309",
+   "quantity": 500,
+   "delivery_date": "2026-12-26"
+  }
+ },
+ {
+  "id": 10,
+  "text": "Hi team,\nConfirming your order PO-2310 for 120 units. Expected delivery on 24/12/2026.\nRegards,\nPlateMakers Co.",
+  "gold": {
+   "supplier": "PlateMakers Co.",
+   "po_number": "PO-2310",
+   "quantity": 120,
+   "delivery_date": "2026-12-24"
+  }
+ },
+ {
+  "id": 11,
+  "text": "Dear buyer, we have received PO PO-2311. Quantity: 120. We will dispatch so it reaches you by January 01, 2027. - Lahore Paper House accounts",
+  "gold": {
+   "supplier": "Lahore Paper House",
+   "po_number": "PO-2311",
+   "quantity": 120,
+   "delivery_date": "2027-01-01"
+  }
+ },
+ {
+  "id": 12,
+  "text": "Re: order PO-2312\nThanks for the order. 500 pcs are being packed and should arrive 10 Jan 2027.\nBest, BindRight Traders",
+  "gold": {
+   "supplier": "BindRight Traders",
+   "po_number": "PO-2312",
+   "quantity": 500,
+   "delivery_date": "2027-01-10"
+  }
+ },
+ {
+  "id": 13,
+  "text": "Hello! Quick update on PO#PO-2313: we can supply 1000 units, delivery December 25, 2026. Kind regards from the PlateMakers Co. sales desk.",
+  "gold": {
+   "supplier": "PlateMakers Co.",
+   "po_number": "PO-2313",
+   "quantity": 1000,
+   "delivery_date": "2026-12-25"
+  }
+ },
+ {
+  "id": 14,
+  "text": "BindRight Traders here. Your purchase order no. PO-2314 (1000 items) is confirmed; delivery date 07/01/2027.",
+  "gold": {
+   "supplier": "BindRight Traders",
+   "po_number": "PO-2314",
+   "quantity": 1000,
+   "delivery_date": "2027-01-07"
+  }
+ }
+]
