@@ -1,0 +1,158 @@
+[
+ {
+  "question": "What are the standard payment terms for suppliers?",
+  "doc": "supplier_policy",
+  "key_phrases": [
+   "45 days"
+  ],
+  "answerable": true
+ },
+ {
+  "question": "How much notice must suppliers give before a price increase?",
+  "doc": "supplier_policy",
+  "key_phrases": [
+   "14 days"
+  ],
+  "answerable": true
+ },
+ {
+  "question": "What is needed before placing the first order with a new paper supplier?",
+  "doc": "supplier_policy",
+  "key_phrases": [
+   "two quotes"
+  ],
+  "answerable": true
+ },
+ {
+  "question": "Above what amount does a purchase need a purchase order?",
+  "doc": "purchasing_procedure",
+  "key_phrases": [
+   "50,000"
+  ],
+  "answerable": true
+ },
+ {
+  "question": "When does the managing director have to approve an order?",
+  "doc": "purchasing_procedure",
+  "key_phrases": [
+   "500,000"
+  ],
+  "answerable": true
+ },
+ {
+  "question": "When is an invoice paid under the three-way match?",
+  "doc": "purchasing_procedure",
+  "key_phrases": [
+   "goods received note"
+  ],
+  "answerable": true
+ },
+ {
+  "question": "How quickly must a purchase order be raised for an urgent phone order?",
+  "doc": "purchasing_procedure",
+  "key_phrases": [
+   "one working day"
+  ],
+  "answerable": true
+ },
+ {
+  "question": "How often are CTP plates and ink cycle-counted?",
+  "doc": "inventory_rules",
+  "key_phrases": [
+   "every week"
+  ],
+  "answerable": true
+ },
+ {
+  "question": "How much safety stock is kept for paper?",
+  "doc": "inventory_rules",
+  "key_phrases": [
+   "two weeks"
+  ],
+  "answerable": true
+ },
+ {
+  "question": "What must happen when paper is damaged?",
+  "doc": "inventory_rules",
+  "key_phrases": [
+   "damage register"
+  ],
+  "answerable": true
+ },
+ {
+  "question": "How many reams are sampled from each paper lot on delivery?",
+  "doc": "quality_and_returns",
+  "key_phrases": [
+   "Ten reams"
+  ],
+  "answerable": true
+ },
+ {
+  "question": "Within how many days must defective material be reported to the supplier?",
+  "doc": "quality_and_returns",
+  "key_phrases": [
+   "7 days"
+  ],
+  "answerable": true
+ },
+ {
+  "question": "How fast are customer complaints about print quality answered?",
+  "doc": "quality_and_returns",
+  "key_phrases": [
+   "48 hours"
+  ],
+  "answerable": true
+ },
+ {
+  "question": "How long do we have to settle a vendor's bill?",
+  "doc": "supplier_policy",
+  "key_phrases": [
+   "45 days"
+  ],
+  "answerable": true
+ },
+ {
+  "question": "Who signs off big orders worth more than half a million rupees?",
+  "doc": "purchasing_procedure",
+  "key_phrases": [
+   "managing director"
+  ],
+  "answerable": true
+ },
+ {
+  "question": "What do we do with a ream that arrives wet or torn?",
+  "doc": "quality_and_returns",
+  "key_phrases": [
+   "7 days"
+  ],
+  "answerable": true
+ },
+ {
+  "question": "How often do we recalculate the point at which to reorder?",
+  "doc": "inventory_rules",
+  "key_phrases": [
+   "every month"
+  ],
+  "answerable": true
+ },
+ {
+  "question": "If a vendor raises prices by 8%, what happens?",
+  "doc": "supplier_policy",
+  "key_phrases": [
+   "renegotiation"
+  ],
+  "answerable": true
+ },
+ {
+  "question": "What is the company's annual marketing budget?",
+  "doc": null,
+  "key_phrases": [],
+  "answerable": false
+ },
+ {
+  "question": "Which courier does the company use for international shipping?",
+  "doc": null,
+  "key_phrases": [],
+  "answerable": false
+ }
+]
