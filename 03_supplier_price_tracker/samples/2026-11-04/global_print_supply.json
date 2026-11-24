@@ -1,0 +1,32 @@
+{
+ "supplier": "Global Print Supply (Sample)",
+ "currency": "USD",
+ "as_of": "2026-11-04",
+ "items": [
+  {
+   "sku": "GL-0080-A4",
+   "title": "Offset Paper A4 80g",
+   "unit_price": 6.47
+  },
+  {
+   "sku": "GL-INK-CY",
+   "title": "Process Cyan 1kg",
+   "unit_price": 11.93
+  },
+  {
+   "sku": "GL-CTP-A1",
+   "title": "Thermal CTP Plate A1",
+   "unit_price": 7.36
+  },
+  {
+   "sku": "GL-PUR-05",
+   "title": "PUR Hotmelt 5 kg",
+   "unit_price": 33.92
+  },
+  {
+   "sku": "GL-CTN-L25",
+   "title": "Carton Large (25)",
+   "unit_price": 7.89
+  }
+ ]
+}
